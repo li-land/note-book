@@ -1,4 +1,4 @@
-export const baseURL = process.env.REACT_APP_API_URL;
+export const baseURL = "https://my-json-server.typicode.com/li-land/test";
 
 export enum EndPoint {
   USERS = "/users/",
