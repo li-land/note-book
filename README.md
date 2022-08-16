@@ -2,7 +2,7 @@
 
 Версия NodeJS v16.13.1
 
-Кабинет доступен по [ссылке](https://li-land.github.io/auth)
+Кабинет доступен по [ссылке](https://li-land.github.io/test)
 
 **Данные для входа:**  
 Email: and@ya.ru  
