@@ -10,7 +10,7 @@ const AuthPage: FC = () => {
   const navigate = useNavigate();
 
   if (isAuth) {
-    navigate(RouteNames.MAIN, { replace: true });
+    navigate(RouteNames.USERS, { replace: true });
   }
 
   return (
