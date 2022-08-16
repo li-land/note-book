@@ -9,7 +9,7 @@ export interface IRoute {
 }
 
 export enum RouteNames {
-  MAIN = "/",
+  USERS = "/users",
   AUTH = "/auth",
   NOT_FOUND = "*",
 }
@@ -23,9 +23,9 @@ export const authRoutes: IRoute[] = [
 ];
 
 export const mainRoutes: IRoute[] = [
-  { path: RouteNames.MAIN, element: <MainPage /> },
+  { path: RouteNames.USERS, element: <MainPage /> },
   {
     path: RouteNames.NOT_FOUND,
-    element: <Navigate to={RouteNames.MAIN} />,
+    element: <Navigate to={RouteNames.USERS} />,
   },
 ];
