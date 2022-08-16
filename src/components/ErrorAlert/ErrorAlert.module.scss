@@ -1,0 +1,39 @@
+.alert {
+  position: absolute;
+  top: -100px;
+  transform: translateX(-50%);
+  left: 50%;
+  z-index: 99;
+  -webkit-animation: fadeIn 4s;
+  animation: fadeIn 4s;
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    top: -100%;
+  }
+  20% {
+    top: 0;
+  }
+  60% {
+    top: 0;
+  }
+  100% {
+    top: -100%;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    top: -100%;
+  }
+  20% {
+    top: 0;
+  }
+  60% {
+    top: 0;
+  }
+  100% {
+    top: -100%;
+  }
+}

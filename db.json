@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Андрей",
+      "email": "and@ya.ru",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "email": "lena@mail.ru",
+      "name": "Елена"
+    },
+    {
+      "id": "V_8Y2gO",
+      "email": "nastek@ya.ru",
+      "name": "Анастасия"
+    },
+    {
+      "id": "7LAR71J",
+      "email": "stepashka@yandex.ru",
+      "name": "Степка"
+    },
+    {
+      "id": "xeZ_RZ2",
+      "email": "murka@mail.ru",
+      "name": "Шура"
+    },
+    {
+      "email": "fat32@mail.ru",
+      "name": "Женька",
+      "id": "hS7CsTt"
+    },
+    {
+      "email": "lalka@mail.ru",
+      "name": "Лола",
+      "id": "zygA8eu"
+    },
+    {
+      "email": "grishka65@gmail.com",
+      "name": "Григорий",
+      "id": "BwKofFu"
+    }
+  ]
+}

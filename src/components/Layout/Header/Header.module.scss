@@ -1,0 +1,23 @@
+.header {
+  background: #ffff;
+  border-bottom: 1px solid #f3f3f3;
+  margin-bottom: 20px;
+  padding: 0;
+}
+.body {
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-size: 30px;
+  margin-right: 20px;
+}
+.name {
+  font-family: "Amatic SC", cursive;
+  font-size: 26px;
+  letter-spacing: 2px;
+}
+.nav {
+  background-color: transparent;
+  border: none;
+}
